@@ -28,8 +28,8 @@
     var urlsToCache = [
       './index.html',
       './style.css',
-      './scripts/script.js',
       './scripts/router.js',
+      './scripts/script.js',
       './components/entry-page.js',
       './components/journal-entry.js',
       'https://cse110lab6.herokuapp.com/entries'
