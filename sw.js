@@ -32,7 +32,7 @@ if ('serviceWorker' in navigator) {
       '/scripts/router.js',
       '/components/entry-page.js',
       '/components/journal-entry.js',
-      'https://developers.google.com/web/fundamentals/primers/service-workers'
+      'https://cse110lab6.herokuapp.com/entries'
 
     ];
     
